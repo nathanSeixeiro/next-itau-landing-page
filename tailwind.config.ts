@@ -9,7 +9,7 @@ const config: Config = {
   ],
   theme: {
     backgroundImage:{
-      'img_bg_hero': "url('./src/assets/bg-hero.jpg')"
+      'img_bg_hero': "url('../assets/bg-hero.jpg')"
     },
     extend: {
       colors:{
