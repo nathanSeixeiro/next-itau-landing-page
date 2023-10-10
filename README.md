@@ -12,6 +12,9 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/nathanSeixeiro/ManagerTasks">
 </p>
 
+![first-screen](https://github.com/nathanSeixeiro/next-itau-landing-page/assets/108758693/3282d5c0-27b6-4c5b-9e8b-4aa47c385d3c)
+![second-screen](https://github.com/nathanSeixeiro/next-itau-landing-page/assets/108758693/dabb8b0a-eac9-4f16-97b1-e10d1aadf904)
+
 ### 🚀 Built With
 
 * [![Next][Next.js]][Next-url]
